@@ -6,7 +6,7 @@ import { Award, Star, Trophy, Medal, Gift, Zap } from "lucide-react"
 import Image from "next/image"
 import { motion } from "framer-motion";
 
-// Mock NFT rewards data
+// Mock NFT rewards dataaa
 const nftRewards = [
   {
     id: "1",

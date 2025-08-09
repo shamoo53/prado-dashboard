@@ -3,6 +3,7 @@ import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Brain, TrendingUp, AlertTriangle, CheckCircle, Eye } from "lucide-react"
 
+//mockdata
 const insights = [
   {
     id: "1",

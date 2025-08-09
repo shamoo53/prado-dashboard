@@ -127,7 +127,7 @@ export default function DashboardPage() {
         </Card>
       </div>
 
-      {/* Main Content Gridd */}
+      {/* Main Content Gridddd */}
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
         {/* Recent Campaigns */}
         <div className="lg:col-span-2 space-y-4">

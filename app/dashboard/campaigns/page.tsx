@@ -6,7 +6,7 @@ import { Plus, Search, Filter } from "lucide-react"
 import { CampaignCard } from "@/components/campaign-card"
 import { motion } from "framer-motion";
 
-// Mock data for campaigns
+// Mock data for campaignsss
 const campaigns = [
   {
     id: "1",

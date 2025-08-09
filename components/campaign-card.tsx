@@ -5,6 +5,8 @@ import { Button } from "@/components/ui/button"
 import { Users, Calendar, Target, CheckCircle, Clock } from "lucide-react"
 import Image from "next/image"
 
+//mockdata
+
 interface Milestone {
   id: number
   title: string

@@ -7,7 +7,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { TrendingUp, Users, Target, DollarSign, Calendar, BarChart3, PieChart, Download } from "lucide-react"
 import { motion } from "framer-motion";
 
-// Mock analytics data
+// Mock analytics dataaa
 const analyticsData = {
   totalRaised: 2847392,
   totalCampaigns: 24,
