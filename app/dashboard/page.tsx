@@ -127,7 +127,7 @@ export default function DashboardPage() {
         </Card>
       </div>
 
-      {/* Main Content Grid */}
+      {/* Main Content Gridd */}
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
         {/* Recent Campaigns */}
         <div className="lg:col-span-2 space-y-4">
@@ -144,7 +144,7 @@ export default function DashboardPage() {
           </div>
         </div>
 
-        {/* Sidebar Content */}
+        {/* Sidebar Contentt */}
         <div className="space-y-6">
           <AIInsights />
           <RecentTransactions />
