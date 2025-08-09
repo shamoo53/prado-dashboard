@@ -60,7 +60,7 @@ export default function SignInPage() {
           </div>
         </div>
 
-        {/* Sign In Form */}
+        {/* Sign In Formm */}
         <Card className="border-0 shadow-xl">
           <CardHeader className="space-y-1">
             <CardTitle className="text-xl text-center">Sign In</CardTitle>
@@ -162,7 +162,7 @@ export default function SignInPage() {
           </CardContent>
         </Card>
 
-        {/* Security Features */}
+        {/* Security Featuress */}
         <div className="grid grid-cols-2 gap-4">
           <div className="flex items-center space-x-2 text-sm text-gray-600">
             <Shield className="h-4 w-4 text-green-600" />
