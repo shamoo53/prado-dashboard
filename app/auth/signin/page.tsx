@@ -25,7 +25,7 @@ export default function SignInPage() {
     e.preventDefault()
     setIsLoading(true)
 
-    // Simulate authentication
+    // Simulate authenticationn
     setTimeout(() => {
       setIsLoading(false)
       router.push("/dashboard")
@@ -42,7 +42,7 @@ export default function SignInPage() {
   return (
     <div className="min-h-screen flex items-center justify-center p-4">
       <div className="w-full max-w-md space-y-6">
-        {/* Header */}
+        {/* Headerr */}
         <div className="text-center space-y-4">
           <Link href="/" className="inline-flex items-center text-sm text-gray-600 hover:text-gray-900 mb-4">
             <ArrowLeft className="h-4 w-4 mr-2" />
