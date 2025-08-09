@@ -146,7 +146,7 @@ export default function SignUpPage() {
           </div>
         </div>
 
-        {/* Sign Up Form */}
+        {/* Sign Upp Formm */}
         <Card className="border-0 shadow-xl">
           <CardHeader className="space-y-1">
             <CardTitle className="text-xl text-center">
@@ -433,7 +433,7 @@ export default function SignUpPage() {
           </CardContent>
         </Card>
 
-        {/* Security Features */}
+        {/* Security Featuresss */}
         <div className="grid grid-cols-2 gap-4">
           <div className="flex items-center space-x-2 text-sm text-gray-600">
             <Shield className="h-4 w-4 text-green-600" />
