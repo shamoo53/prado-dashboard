@@ -41,7 +41,7 @@ export default function SignUpPage() {
 
     setIsLoading(true)
 
-    // Simulate account creation
+    // Simulate account creations
     setTimeout(() => {
       setIsLoading(false)
       router.push("/dashboard")
