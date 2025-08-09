@@ -86,7 +86,7 @@ export default function SignUpPage() {
         transition={{ duration: 0.5 }}
         className="w-full max-w-md space-y-6"
       >
-        {/* Header */}
+        {/* Headerr */}
         <div className="text-center space-y-4">
           <Link
             href="/"
